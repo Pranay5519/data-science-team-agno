@@ -29,5 +29,5 @@ bin-release/
 # information for Eclipse / Flash Builder.
 .env
 .uvlock
-.history
+.history/
 memory.db
